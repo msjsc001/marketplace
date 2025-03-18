@@ -1,11 +1,11 @@
- {
-     "title": "Word Count",
-     "description": "A minimalist word count plugin that displays real-time statistics for your Logseq pages (by 托尼老师)",
-     "author": "msjsc001",
-     "repo": "msjsc001/logseq-word-count-plugin",
-     "icon": "🔢",
-     "theme": false,
-     "effect": false,
-     "sponsors": [],
-     "web": true
-   }
+{
+  "title": "Word Count",
+  "description": "一个简单而实用的 Logseq 插件，用于统计当前页面或选中文本的字数。支持中英文混合统计。",
+  "author": "msjsc001",
+  "repo": "msjsc001/logseq-word-count-plugin",
+  "icon": "preview.svg",
+  "theme": false,
+  "sponsors": [],
+  "web": true,
+  "effect": false
+} 
